@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 
 
 namespace Code
@@ -7,14 +8,14 @@ namespace Code
     
     public class CharacterPresenter : MonoBehaviour
     {
-        public Character Character;
+        [FormerlySerializedAs("Character")] public Character_old characterOld;
 
         private void Update()
         {
             if (Input.GetKey(KeyCode.Space))
             {
-                bool characterIsDead = !Character.IsDead;
-                Character.SetActive(characterIsDead);
+                bool characterIsDead = !characterOld.IsDead;
+                characterOld.SetActive(characterIsDead);
             }
         }
         
