@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace Code
@@ -9,12 +8,10 @@ namespace Code
         private void Update()
         {
             float x = Mathf.PingPong(Time.time, Length);
-
+            float y = Mathf.Repeat(Time.time, Length);
             //transform.position.x = x;
             
-            transform.position = new Vector3(x, transform.position.y, transform.position.z);
+            transform.position = new Vector3(x, y, transform.position.z);
         }
     }
-
 }
-
