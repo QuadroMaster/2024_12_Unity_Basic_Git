@@ -1,5 +1,4 @@
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,6 +7,7 @@ namespace Code
 {
     public class HealthBar : MonoBehaviour
     {
+        public Vector2Int MinAndMaxHealth = new Vector2Int(0, 100);
         public TMP_Text HealthText;
         public Slider Slider;
         public float Speed;
@@ -18,6 +18,14 @@ namespace Code
         private int _minHealth = 0;
         private float _currentHealth;
 
+
+        private void Start()
+        {
+            Slider.maxValue = MaxHealth;  // MinAndMaxHealth.x;
+            Slider.minValue = _minHealth; // MinAndMaxHealth.y;
+        }
+        
+        
         private void Update()
         {
             float currentHealth = Mathf.Clamp(CurrentHealth, _minHealth, MaxHealth); //смотрит, входит ли значение в

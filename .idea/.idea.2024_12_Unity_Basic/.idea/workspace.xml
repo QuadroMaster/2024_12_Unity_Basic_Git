@@ -7,7 +7,8 @@
     <list default="true" id="1fcb6852-3f37-4b21-b2f4-fdda5aa0e2a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/HealthBar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/VectorExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/VectorExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/EnemyCircle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ExampleRandom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByMouseObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MoveBySinObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Nearest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/RotateExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/VectorExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c2d036c16ca64e0eb93703a3b13e733a171c00/36/f822fb86/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -100,6 +108,7 @@
       <workItem from="1739743707148" duration="2380000" />
       <workItem from="1739830047136" duration="3231000" />
       <workItem from="1740000198110" duration="4649000" />
+      <workItem from="1740182589442" duration="37617000" />
     </task>
     <servers />
   </component>
