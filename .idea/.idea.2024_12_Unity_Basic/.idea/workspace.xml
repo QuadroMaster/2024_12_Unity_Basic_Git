@@ -6,31 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fcb6852-3f37-4b21-b2f4-fdda5aa0e2a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/EnemyCircle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/EnemyCircle.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Example.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Example.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/ExamplePerlinNoise.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/ExamplePerlinNoise.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/ExampleRandom.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/ExampleRandom.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/HealthBar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/HealthBar.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/HealthBar.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByMouseObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByMouseObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveBySinObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/MoveBySinObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Nearest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Nearest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/RotateExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/RotateExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/VectorExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/VectorExample.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/VectorExample.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/VectorExample.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +17,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/EnemyCircle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MoveBySinObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/Nearest_enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/RotateExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/VectorExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c2d036c16ca64e0eb93703a3b13e733a171c00/36/f822fb86/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -133,6 +111,7 @@
       <workItem from="1746799389469" duration="1675000" />
       <workItem from="1746801090885" duration="31186000" />
       <workItem from="1746993176887" duration="6253000" />
+      <workItem from="1747350032363" duration="5693000" />
     </task>
     <servers />
   </component>
