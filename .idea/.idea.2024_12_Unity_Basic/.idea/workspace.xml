@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fcb6852-3f37-4b21-b2f4-fdda5aa0e2a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2024_12_Unity_Basic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Physics.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Code/EnemyCircle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByLerpObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByMouseObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveByRepeatObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/MoveBySinObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/Nearest_enemy.cs" root0="FORCE_HIGHLIGHTING" />
@@ -112,6 +112,7 @@
       <workItem from="1746801090885" duration="31186000" />
       <workItem from="1746993176887" duration="6253000" />
       <workItem from="1747350032363" duration="5693000" />
+      <workItem from="1747502564116" duration="3401000" />
     </task>
     <servers />
   </component>
